@@ -1,0 +1,13 @@
+{
+    "name": "1UBQ_AMBER_MMP",
+    "description": "1UBQ, AMBER FF, from MMP file",
+    "version": "0.4.0",
+    "mmpol_file": {
+        "path": "tests/1ubq/input_WANG_AL.mmp",
+        "md5sum": "c14f98ba4a97bcc6969942d8af8713fd"
+    },
+    "verbosity": "high",
+    "fmm_distance_thr": 8.0,
+    "fmm_max_l": 18,
+    "fmm_pol_max_l": 18
+}
